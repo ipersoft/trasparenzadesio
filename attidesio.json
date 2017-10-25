@@ -32083,5 +32083,28 @@
     "ALLEGATI": 14.0,
     "PROV": "Interna",
     "CLASSIFICA": "OPERE PUBBLICHE"
+  },
+  {
+    "ID": 3605124.0,
+    "CATEGORIA": "DETERMINAZIONE DEL DIRIGENTE",
+    "SOTTOCATEGORIA": "DETERMINAZIONE DEL DIRIGENTE",
+    "ATTO_ANNO": 2017.0,
+    "ATTO_NUM": 743.0,
+    "DATA_DOC": "2017-10-20T00:00:00",
+    "TIPOREG": "Albo Pretorio",
+    "DATA_REG": "2017-10-25T00:00:00",
+    "REG_ANNO": 2017.0,
+    "REG_NUM": 961.0,
+    "PROPONENTE": "Servizi Bibliotecari",
+    "OGGETTO": "BIBLIOTECA CIVICA - ATTIVITA' PROMOZIONE LETTURA - IMPEGNO DI SPESA DI €. 190,00",
+    "ATTO_DATA": "2017-10-20T00:00:00",
+    "DIRIGENTE": "Antenucci Elvira",
+    "DATA_ESE": "2017-10-25T00:00:00",
+    "DATA_PUB_INI": "2017-10-25T00:00:00",
+    "DATA_PUB_FIN": "2022-12-31T00:00:00",
+    "STATO": "attivo",
+    "ALLEGATI": 2.0,
+    "PROV": "Interna",
+    "CLASSIFICA": null
   }
 ]
